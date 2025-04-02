@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksaurabh1407
-- 👀 I’m interested in DevOps, SRE, Cloud Native, MLOPs & FinOps
+- 👀 I’m interested in AI/ML, Cloud, DevOps/MLOps and SRE
 - 🌱 I’m currently learning MLOPs
 - 💞️ I’m looking to collaborate on MLOPs
 - 📫 Reach out to me at sayittome@gmail.com
